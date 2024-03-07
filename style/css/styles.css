@@ -1,7 +1,7 @@
 body {
   display: block;
   height: 90vh;
-  background-color: #f8c8dc;
+  background-color: #722022;
 }
 
 #noButton {
@@ -34,7 +34,7 @@ body {
 }
 
 .btn {
-  background-color: #ffb6c1;
+  background-color: #9a2d30;
   color: white;
   padding: 15px 32px;
   text-align: center;
